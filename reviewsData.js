@@ -1,0 +1,60 @@
+const reviewsData = [
+  {
+    id: 1,
+    name: "Honey Bansal",
+    rating: 5,
+    text: "The place has awesome vibes and the food is also very delicious and delicate. Specially the staff and the people who provide services are sweet. Must try their chocolate shake and Kurkure momos are awesome. Just loved them.",
+    avatar: "HB",
+    color: "#E63946",
+  },
+  {
+    id: 2,
+    name: "Ishani Chaudhary",
+    rating: 5,
+    text: "The best place I've discovered recently in Agra and I'm sure i can't stop hyping about it because the shakes and wraps are too good to be true at such a price. The ambience is sweet and warm and the staff is welcoming. I loved the Brownie shake, kesarbadam shake and shami wrap is a must try.",
+    avatar: "IC",
+    color: "#D4AF37",
+  },
+  {
+    id: 3,
+    name: "Rahul Parmar",
+    rating: 5,
+    text: "The Mud Shakes have best shakes in Agra. I ordered Blueberry Shake and it tastes so good.",
+    avatar: "RP",
+    color: "#8B5CF6",
+  },
+  {
+    id: 4,
+    name: "Shubham Gupta",
+    rating: 4,
+    text: "This small cafe lightens up usually after evening hours. Do try KFC momos! Good place to hangout with friends.",
+    avatar: "SG",
+    color: "#10B981",
+  },
+  {
+    id: 5,
+    name: "Mitul Shingadia",
+    rating: 5,
+    text: "This little cafe is a perfect example of big things come in small sizes. I went here with a couple of friends on recommendation of a local. Sunday evening about 5pm and the place was absolutely full.",
+    avatar: "MS",
+    color: "#F59E0B",
+  },
+  {
+    id: 6,
+    name: "Vivek Kumar Kataria",
+    rating: 5,
+    text: "Kudos to this place......awesome food, excellent quality and a great variety of food to order...this place has a good comfortable atmosphere. Chocolate lovers must visit.",
+    avatar: "VK",
+    color: "#EC4899",
+  },
+  {
+    id: 7,
+    name: "Bhawana Sharma",
+    rating: 5,
+    text: "This is the best place to enjoy with your close people. Here you can get much variety of snacks and food. And an interesting thing is that you can get a huge choice in shakes and drinks. Everything is delicious at a very affordable price.",
+    avatar: "BS",
+    color: "#6366F1",
+  },
+];
+
+export default reviewsData;
